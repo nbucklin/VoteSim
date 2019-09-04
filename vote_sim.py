@@ -12,7 +12,7 @@ random_national = .002
 random_state = .001
 
 # Reading in the data
-data_states = pd.read_csv(r'/Users/Natalie/Desktop/Priorities USA/Materials/state_forecasts.csv')
+data_states = pd.read_csv(r'')
     
 # Making a simulation grid for the national swing. It is impossible to enforce the same
 # national swing across all states within the next loop since I'm looping through on a 
